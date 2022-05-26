@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert Mead (@rmead7)
 - 👀 I’m interested in data analytics, applied mathematics, reading and staying active.
-- 🌱 I’m currently learning more about Machine Learning and SQL.
+- 🌱 I’m currently learning more about Machine Learning with Python and SQL.
 
 <!---
 rmead7/rmead7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
